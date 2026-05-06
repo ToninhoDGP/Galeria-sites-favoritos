@@ -4,8 +4,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-## 🔗 Link do Projeto
-Acesse a página em execução aqui: [Clique para abrir a Galeria](https://toninhodgp.github.io/Galeria-sites-favoritos/)
+## 🔗 Link do projeto
+Acesse a página em execução aqui: [Clique para abrir a galeria](https://toninhodgp.github.io/Galeria-sites-favoritos/)
 
 ## 📋 Descrição do projeto
 Este projeto foi desenvolvido como parte das atividades da **Agenda 12** da disciplina de **Desenvolvimento de Sistemas I** na Etec. O foco principal foi a aplicação de **HTML5 semântico** para a criação de um diretório organizado de sites favoritos.
